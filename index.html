@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="style.css">
+    <title>Les artistes qui ont marqué le monde</title>
+</head>
+<body>
+    <div class="menu">
+        <div class="close" onclick="toggleMenu()">
+            <span class="line"></span>
+            <span class="line"></span>
+        </div>
+        <a href="" class="menu-item" style="background-image:url('./img/cinema2.jpg')"><span>Cinema</span></a>
+        <a href="music.html" class="menu-item" style="background-image:url('./img/musique2.jpg')"><span>Musique</span></a>
+        <a href="" class="menu-item" style="background-image:url('./img/art-visuels2.jpg')"><span>Art visuel</span></a>
+        <a href="" class="menu-item" style="background-image:url('./img/art-performes2.jpg')"><span>Art performé</span></a>
+        <a href="" class="menu-item" style="background-image:url('./img/litterature2.jpg')"><span>Littérature</span></a>
+        <a href="" class="menu-item" style="background-image:url('./img/sculpture2.jpg')"><span>Sculpture - Architecture</span></a>
+        <a href="" class="menu-item" style="background-image:url('./img/autre2.jpg')"><span>Autre</span></a>
+    </div>
+    <div class="card-data">
+        <div class="img"></div>
+        <div class="content">
+            <h1 class="name"></h1>
+            <div class="close" onclick="toggleCard()">
+                <span class="line"></span>
+                <span class="line"></span>
+            </div>
+            <p class="bio"></p>
+            <em>Pour en savoir plus, <a class="link" target="_blank" rel="noopener noreferrer">Cliquez ici</a></em>
+        </div>
+    </div>
+    <header>
+        <a href="./index.html" class="logo">
+            <img src="img/icon.png" alt="">
+        </a>
+        <a class="title" href="./index.html">
+            Les artistes qui ont marqué le monde
+        </a>
+        <div class="menu-button" onclick="toggleMenu()">
+            <span class="button"></span>
+        </div>
+    </header>
+    <div class="caroussel">
+        <div class="button previous" onclick="caroussel.previous()">
+            <div class="arrow arrow-left"></div>
+            <div class="arrow arrow-left"></div>
+            <div class="arrow arrow-left"></div>
+        </div>
+        <div class="button next" onclick="caroussel.next()">
+            <div class="arrow arrow-right"></div>
+            <div class="arrow arrow-right"></div>
+            <div class="arrow arrow-right"></div>
+        </div>
+        <a class="slide" href="">
+            <div class="img" style="background-image:url('./img/cinema.jpg')"></div>
+            <div class="legend">Découvrez l’univers de la narration visuelle et des émotions à travers l’art du cinéma</div>
+        </a>
+        <a class="slide" href="music.html">
+            <div class="img" style="background-image:url('./img/musique.jpg')"></div>
+            <div class="legend">Plongez dans cet univers où la langue est universelle et peut émouvoir, inspirer et briser la barrière linguistique</div>
+
+        </a>
+        <a class="slide" href="" >
+            <div class="img" style="background-image:url('./img/art-visuels.jpg')"></div>
+            <div class="legend">Découvrez un monde où toutes les émotions et expressions sont possible</div>
+            
+        </a>
+        <a class="slide" href="" >
+            <div class="img" style="background-image:url('./img/art-performes.jpg')"></div>
+            <div class="legend">Univers artistique où l’experience est au centre de l’oeuvre: découvrez l’art performatif tout en mouvement </div>
+            
+        </a>
+        <a class="slide" href="" >
+            <div class="img" style="background-image:url('./img/litterature.jpg')"></div>
+            <div class="legend">Voyagez à travers les mots et laissez vous être transporté dans de nombreux mondes imaginaires</div>
+            
+        </a>
+        <a class="slide" href="" >
+            <div class="img" style="background-image:url('./img/sculpture.jpg')"></div>
+            <div class="legend">la sculpture, un art qui donne vie à la matière et qui la rend encore plus belle</div>
+            
+        </a>
+        <a class="slide" href="" >
+            <div class="img" style="background-image:url('./img/architecture.jpg')"></div>
+            <div class="legend">l'architecture est l’art de concevoir des espaces tout laissant l’imagination prendre le dessus</div>
+            
+        </a>
+        <a class="slide" href="" >
+            <div class="img" style="background-image:url('./img/autre.jpg')"></div>
+            <div class="legend">Entrez dans un art interactif et rempli de mondes imaginaires</div>
+        </a>
+        <a class="slide" href="" >
+            <div class="img" style="background-image:url('./img/autre3.jpg')"></div>
+            <div class="legend">Là où le moment présent est capturé afin d’en faire une véritable oeuvre d’art</div>
+        </a>
+    </div>
+    <h2>Les célébritées qui ont marqué le monde artistique</h2>
+        <div class="celebrities-list" id="all">
+        <div class="card" style="display:none" onclick="openCard(event)">
+            <div class="legend"></div>
+        </div>
+    </div>
+    <div class="footer">
+        Le site a été réalisé dans le cadre des présélections au concours 24h du net édition 2023 du lycée Rémi Belleau
+    </div>
+    <script src="interactions.js"></script>
+</body>
+</html>
