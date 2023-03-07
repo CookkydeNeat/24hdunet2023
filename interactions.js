@@ -27,13 +27,13 @@ const Celebrities = [
     },{
         img:'https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Michael_Jackson_Dangerous_World_Tour_1993.jpg/1200px-Michael_Jackson_Dangerous_World_Tour_1993.jpg',
         name:"Michael JACKSON: 1958-2009",
-        bio:"Michael Jackson étais un chanteur américain, compositeur, et danseur qui s'est fait connaitre dans les années 80.\
-            Surnommé le roi de la pop (\"King of Pop\"), Il est devenu célèbre pour ses musiques et ses représentation en concerts.\
+        bio:"Michael Jackson était un chanteur américain, compositeur, et danseur qui s'est fait connaitre dans les années 80.\
+            Surnommé le roi de la pop (\"King of Pop\"), Il est devenu célèbre pour ses musiques et ses représentations en concerts.\
             Michael JACKSON a commencé sa carrière jeune dans le groupe JACKSON 5 avec ses frères\
             Puis se sépara du groupe pour commencer sa carrière solo.\
-            Il sorti plusieurs albums a succès avec des musiques comme Thriller, Bad, Dangerous.\
+            Il sortit plusieurs albums a succès avec des musiques comme Thriller, Bad, Dangerous.\
             Il mourra en 2009 a l'age de 50 ans, alors qu'il étais accusé d'abus sexuels sur mineurs.\
-            Malgré cela il restera dans l'histoire comme l'un des plus grand chanteurs du monde",
+            Malgré cela il restera dans l'histoire comme l'un des plus grands chanteurs du monde",
         type:"m",
         work:"https://www.youtube.com/watch?v=4V90AmXnguw"
     },{
@@ -90,25 +90,25 @@ const Celebrities = [
     {
         img:'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Homeros_MFA_Munich_272.jpg/220px-Homeros_MFA_Munich_272.jpg',
         name:"Homère: VIIIe av. JC",
-        bio:"Homère est un auteur épique du VIIIème siècle avant JC, il a écrit les œuvres L'iliade et l’Odyssée, ces histoires ont été reprises de nombreuses fois dans des films, séries. Selon les croyances Homère serait aveugle, il s’agirait d’une particularité des auteurs de l’époque les deux sont indissociables, la cécité permettrait de mieux écrire. Mais malheureusement encore aujourd’hui nous ne savons toujours pas si un Homère historique a existé avant l’époque romaine. ",
+        bio:"Homère est un auteur épique du VIIIème siècle avant JC, il a écrit les œuvres L'Illiade et l’Odyssée, ces histoires ont été reprises de nombreuses fois dans des films, séries. Selon les croyances Homère serait aveugle, il s’agirait d’une particularité des auteurs de l’époque les deux sont indissociables, la cécité permettrait de mieux écrire. Mais malheureusement encore aujourd’hui nous ne savons toujours pas si un Homère historique a existé avant l’époque romaine. ",
         type:"l",
         work:"https://www.histoire-pour-tous.fr/dossiers/3522-le-monde-dhomere-liliade-et-lodyssee.html"
     },{
         img:'https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Jean_de_La_Fontaine.PNG/260px-Jean_de_La_Fontaine.PNG',
         name:"Jean de la Fontaine: 1621-1695",
-        bio:"Homère est un auteur épique du VIIIème siècle avant JC, il a écrit les œuvres L'iliade et l’Odyssée, ces histoires ont été reprises de nombreuses fois dans des films, séries. Selon les croyances Homère serait aveugle, il s’agirait d’une particularité des auteurs de l’époque les deux sont indissociables, la cécité permettrait de mieux écrire. Mais malheureusement encore aujourd’hui nous ne savons toujours pas si un Homère historique a existé avant l’époque romaine. Jean de la Fontaine est un poète du XVIIème siècles, il est notamment connu pour ces 243 fables moralisatrices répartie dans 3 recueilles différents mais après le fabuliste il y a le conteur il écrit des contes licencieux qui consiste à utiliser l’implicite pour ne pas évoquer la sexualité, il fait parti du mouvement littéraire du classicisme, il est issue de la noblesse mais reste à l'écart de la cour royal mais fréquente tout de même des salons.",
+        bio:"Jean de la Fontaine est un poète du XVIIème siècle, il est notamment connu pour ces 243 fables moralisatrices répartie dans 3 recueilles différents mais après le fabuliste il y a le conteur il écrit des contes licencieux qui consiste à utiliser l’implicite pour ne pas évoquer la sexualité, il fait parti du mouvement littéraire du classicisme, il est issue de la noblesse mais reste à l'écart de la cour royal mais fréquente tout de même des salons. ",
         type:"l",
         work:"https://fr.wikipedia.org/wiki/Fables_de_La_Fontaine"
     },{
         img:'https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/J._K._Rowlings_1999_%282%29.jpg/170px-J._K._Rowlings_1999_%282%29.jpg',
         name:"JK Rowling: 1965-présent",
-        bio:"Joanne Rowling plus connus sous le nom de Romancière JK Rowling, cette femme britanique a écrit le best-seller qu’est devenu Harry Potter, qui sera aussi un succés cinematographique. Il s’agit de son œuvre principale même si son succès ne s’arrête pas là elle a aussi écrit Une place à prendre, Le ver à soie et encore bien d'autres. Elle a été de nombreuses fois récompensée: Prix Hugo, Prix Locus ou encore la Légion d’honneur en 2009. Elle a vendu plus de 450 millions de livres dont 28 millions en France.",
+        bio:"Joanne Rowling plus connus sous le nom de Romancière JK Rowling, cette femme britannique a écrit le best-seller qu’est devenu Harry Potter, qui sera aussi un succès cinématographique. Il s’agit de son œuvre principale même si son succès ne s’arrête pas là elle a aussi écrit Une place à prendre, Le ver à soie et encore bien d'autres. Elle a été de nombreuses fois récompensée: Prix Hugo, Prix Locus ou encore la Légion d’honneur en 2009. Elle a vendu plus de 450 millions de livres dont 28 millions en France.",
         type:"l",
         work:"https://fr.wikipedia.org/wiki/Harry_Potter"
     },{
         img:'https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Agatha_Christie.png/260px-Agatha_Christie.png',
         name:"Agatha Christie: 1890-1976",
-        bio:"Agatha Christie est une femme de lettres britannique, elle est principalement connue pour ses romans policiers son nom est souvent associer a ses deux héros Hercule Poirot et Miss Marple qui sont tout les deux des détectives plus ou moins professionnel, elle est considérée comme l’autrice la plus lu dans le monde anglo-saxon apres William Shakespeare Elle a écrit et publié 154 nouvelles, 66 romans et une vingtaine de pièces de théâtre. Ces histoires sont reprises dans le cinéma ou même encore dans les jeux vidéo.",
+        bio:"Agatha Christie est une femme de lettres britannique, elle est principalement connue pour ses romans policiers son nom est souvent associé à ses deux héros Hercule Poirot et Miss Marple qui sont tous deux des détectives plus ou moins professionnels, elle est considérée comme l’autrice la plus lu dans le monde anglo-saxon après William Shakespeare Elle a écrit et publié 154 nouvelles, 66 romans et une vingtaine de pièces de théâtre. Ces histoires sont reprises dans le cinéma ou même encore dans les jeux vidéo.",
         type:"l",
         work:"https://fr.wikipedia.org/wiki/Le_Crime_de_l%27Orient-Express"
     },{
@@ -123,37 +123,37 @@ const Celebrities = [
     {
         img:'https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Auguste_Rodin_fotografato_da_Nadar_nel_1891.jpg/260px-Auguste_Rodin_fotografato_da_Nadar_nel_1891.jpg',
         name:"Auguste Rodin: 1840-1917",
-        bio:"Né en novembre 1840 à Paris dans une famille sans réel problèmes financiers il étudie dans l’école nationale supérieure des arts décoratifs, Auguste Rodin est un des plus grands sculpteurs français de la seconde moitié du XIXème et début XXème siècle, il est considéré comme le père de la sculpture moderne. Il possède son propre musée à Paris avec pas moins de 32000 œuvres en tout genre. Il meurt le 17 Novembre 1917 à Meudon. ",
+        bio:"Né en novembre 1840 à Paris dans une famille sans réels problèmes financiers il étudie dans l’école nationale supérieure des arts décoratifs, Auguste Rodin est un des plus grands sculpteurs français de la seconde moitié du XIXème et début XXème siècle, il est considéré comme le père de la sculpture moderne. Il possède son propre musée à Paris avec pas moins de 32000 œuvres en tout genre. Il meurt le 17 Novembre 1917 à Meudon. ",
         type:"s",
         work:"https://fr.wikipedia.org/wiki/Le_Penseur"
     },{
         img:'https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Uffizi_Donatello.jpg/260px-Uffizi_Donatello.jpg',
         name:"Donato di Niccolò di Betto Bardi dit Donatello: 1386-1466",
-        bio:"Né en 1386 à la République de Florence. Donatello est un sculpteur florentin de la Renaissance: selon un humanistes du Leon Battista Alberti un des cinq rénovateurs de l'art de son époque, il apprend au côté de son maître Bicci di Lorenzo et ouvre son atelier en 1428 à Florence il est aidé financièrement par le Cosme de Médicis, lorsqu’il sculptais c'était avec une très grande finesses et des détails précis. ",
+        bio:"Né en 1386 à la République de Florence. Donatello est un sculpteur florentin de la Renaissance: selon un humaniste du Leon Battista Alberti un des cinq rénovateurs de l'art de son époque, il apprend au côté de son maître Bicci di Lorenzo et ouvre son atelier en 1428 à Florence il est aidé financièrement par le Cosme de Médicis, lorsqu’il sculptais c'était avec une très grande finesse et des détails précis. ",
         type:"s",
         work:"https://en.wikipedia.org/wiki/David_(Donatello)"
     },{
         img:'https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Francesco_Melzi_-_Portrait_of_Leonardo.png/260px-Francesco_Melzi_-_Portrait_of_Leonardo.png',
         name:"Léonard de Vinci: 1452-1519",
-        bio:"Né au début de l’année 1452 en Toscane Léonard de vinci est un polymathe mondialement connu pour ses inventions mais aussi pour ces sculptures et ces architectures il a eu pour maîtres et élèves bon nombres de personnes il en a acquis beaucoup de savoir faire dans de nombreux domaines, enfant d’une mère paysanne et d’un père notaire, il décède en mai 1519 au Château Du Clos Lucé non loin d’ici. ",
+        bio:"Né au début de l’année 1452 en Toscane Léonard de vinci est un polymathe mondialement connu pour ses inventions mais aussi pour ces sculptures et ces architectures il a eu pour maîtres et élève bon nombres de personnes il en a acquis beaucoup de savoir faire dans de nombreux domaines, enfant d’une mère paysanne et d’un père notaire, il décède en mai 1519 au Château Du Clos Lucé non loin d’ici. ",
         type:"s",
         work:"https://fr.wikipedia.org/wiki/La_Joconde"
     },{
         img:'https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Michelangelo_Daniele_da_Volterra_%28dettaglio%29.jpg/260px-Michelangelo_Daniele_da_Volterra_%28dettaglio%29.jpg',
         name:"Michel Ange: 1475-1564",
-        bio:"Né le 6 mars 1475 à Caprese dans la république de Florence, Michel Ange est un sculpteur mais d’autre part un architecte de la première moitié du XVIème siècles ses œuvres les plus connues sont très largement considérées comme des chefs d’œuvres même si initialement il ne voulait pas partir dans les domaines de l'art mais décide de suivre un de ses amis Francesco Granacci il décède le 18 février 1564 à Rome",
+        bio:"Né le 6 mars 1475 à Caprese dans la république de Florence, Michel Ange est un sculpteur mais d’autre part un architecte de la première moitié du XVIème siècle ses œuvres les plus connues sont très largement considérées comme des chefs d’œuvres même si initialement il ne voulait pas partir dans les domaines de l'art mais décide de suivre un de ses amis Francesco Granacci il décède le 18 février 1564 à Rome",
         type:"s",
         work:"https://fr.wikipedia.org/wiki/David_(Michel-Ange)"
     },{
         img:'https://upload.wikimedia.org/wikipedia/commons/c/ce/Gustave_Eiffel.jpg',
         name:"Gustave Eiffel: 1832-1923",
-        bio:"Gustave Eiffel était un ingénieur et aussi un architecte. Il commence sa carrière en travaillant avec un entrepreneur parisien spécialisé dans la construction métallique, ce qui lui permettra plus tard à l'Exposition universelle de 1889 de construire la tour Eiffel qui est haute de 1000 pieds (320 mètres)initialement elle aurait dû être démontée mais elle reste car elle est grandement appréciée. Il sera aussi l’ingénieur qui aura permis de mettre sur pied la statue de la Liberté. Il fût aussi le Président de la Société des ingénieurs civils de France durant l’année 1889. ",
+        bio:"Gustave Eiffel était un ingénieur et aussi un architecte. Il commence sa carrière en travaillant avec un entrepreneur parisien spécialisé dans la construction métallique, ce qui lui permettra plus tard à l'Exposition universelle de 1889 de construire la tour Eiffel qui est haute de 1000 pieds (320 mètres)initialement elle aurait dû être démontée mais elle restera car elle etais grandement appréciée. Il sera aussi l’ingénieur qui aura permis de mettre sur pied la statue de la Liberté. Il fut aussi le Président de la Société des ingénieurs civils de France durant l’année 1889. ",
         type:"s",
         work:"https://fr.wikipedia.org/wiki/Mus%C3%A9e_du_Quai_Branly_-_Jacques-Chirac"
     },{
         img:'https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Zaha_Hadid_in_Heydar_Aliyev_Cultural_center_in_Baku_nov_2013.jpg/220px-Zaha_Hadid_in_Heydar_Aliyev_Cultural_center_in_Baku_nov_2013.jpg',
         name:"Zaha Hadid: 1950-2016",
-        bio:"Zaha Hadid née le 1950 à Bagdad en Irak est une des rares femme architecte elle ira dans l’Architectural Association School of Architeturequi est l’école d’architecture la plus ancienne du Royaume, elle a été très largement récompenser par son travail avec: Le prix Miles avn der Rohe 2003, le prix Pritzker en 2004 mais aussi la medaille d’or royale pour l’architecture en 2016, elle décèdera la même année à Miami  ",
+        bio:"Zaha Hadid née le 1950 à Bagdad en Irak est une des rares femmes architecte elle ira dans l’Architectural Association School of Architeture qui est l’école d’architecture la plus ancienne du Royaume, elle a été très largement récompenser par son travail avec: Le prix Miles avn der Rohe 2003, le prix Pritzker en 2004 mais aussi la médaille d’or royale pour l’architecture en 2016, elle décèdera la même année à Miami  ",
         type:"s",
         work:"https://fr.wikipedia.org/wiki/Capitainerie_du_port_d%27Anvers"
     },{
@@ -187,7 +187,7 @@ const Celebrities = [
     },{
         img:'https://upload.wikimedia.org/wikipedia/commons/2/27/Salvador_Dali_NYWTS.jpg',
         name:"Salvador Dalí (XXe siècle)",
-        bio:"Salvador Dali (1904-1989) était un artiste espagnol qui a été l'un des principaux représentants du mouvement surréaliste. Il est surtout connu pour ses peintures étranges et surréalistes(peintures oniriques et ses montres molles) qui présentent souvent des images énigmatiques, symboliques et fantasmatiques. Dali était également un artiste multidisciplinaire, travaillant dans une variété de médiums, y compris la sculpture, la photographie et le cinéma. Il a créé environ 1500 peintures, 600 dessins, 500 sculptures \"La Vénus aux tiroirs\" a été vendue aux enchères pour plus de 16 millions de dollars américains, ce qui en fait l'une des œuvres les plus chères de l'artiste.",
+        bio:"Salvador Dali (1904-1989) était un artiste espagnol qui a été l'un des principaux représentants du mouvement surréaliste. Il est surtout connu pour ses peintures étranges et surréalistes(peintures oniriques et ses montres molles) qui présentent souvent des images énigmatiques, symboliques et fantasmatiques. Dali était également un artiste multidisciplinaire, travaillant dans une variété de médiums, y compris la sculpture, la photographie et le cinéma. Il à créé environ 1500 peintures, 600 dessins, 500 sculptures \"La Vénus aux tiroirs\" a été vendue aux enchères pour plus de 16 millions de dollars américains, ce qui en fait l'une des œuvres les plus chères de l'artiste.",
         type:"av",
         work:"https://fr.wikipedia.org/wiki/La_Persistance_de_la_m%C3%A9moire"
     },{
@@ -217,7 +217,7 @@ const Celebrities = [
     },{
         img:'https://www.kazoart.com/blog/wp-content/uploads/2018/11/Autoportrait-coiff%C3%A9-dun-beret_Claude_Monet.jpg',
         name:"Claude Monet (XIXe siècle)",
-        bio:"Claude Monet (1840-1926) était un peintre français de l'impressionnisme, l'un des mouvements artistiques les plus influents de la fin du 19ème siècle. Il est surtout connu pour ses paysages colorés et lumineux, ainsi que pour ses peintures de jardins et de nénuphars. Monet a passé une grande partie de sa vie à peindre en plein air, capturant les effets de la lumière naturelle sur les paysages à différents moments de la journée et des saisons. Monet a eu une influence majeure sur l'art moderne et continue d'être l'un des peintres les plus populaires au monde. Il est estimé qu'il a créé environ 2000 peintures, dont beaucoup sont des paysages le tableau \"Meules, fin de l'été\" vendu en 2019 pour 110,7 millions de dollars.",
+        bio:"Claude Monet (1840-1926) était un peintre français de l'impressionnisme, l'un des mouvements artistiques les plus influents de la fin du 19ème siècle. Il est surtout connu pour ses paysages colorés et lumineux, ainsi que pour ses peintures de jardins et de nénuphars. Monet a passé une grande partie de sa vie à peindre en plein air, capturant les effets de la lumière naturelle sur les paysages à différents moments de la journée et des saisons. Monet a eu une influence majeure sur l'art moderne et continu d'être l'un des peintres les plus populaires au monde. Il est estimé qu'il a créé environ 2000 peintures, dont beaucoup sont des paysages le tableau \"Meules, fin de l'été\" vendu en 2019 pour 110,7 millions de dollars.",
         type:"av",  
         work:"https://fr.wikipedia.org/wiki/Nymph%C3%A9as_(Mus%C3%A9e_d%27Art_du_comt%C3%A9_de_Los_Angeles)"
     },
@@ -277,7 +277,7 @@ const Celebrities = [
     },{
         img:'https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Quentin_Tarantino_by_Gage_Skidmore.jpg/220px-Quentin_Tarantino_by_Gage_Skidmore.jpg',
         name:"Quentin Tarantino: 1963-présent",
-        bio:"Quentin Tarantino est un scénariste, producteur, réalisateur américain. Il est notamment connu a travers ces films indépendants comme Reservoir Dogs et Pulp Fiction début de sa carrière puis par la suit Kill Bill Vol 1 et 2 et un de ses plus gros succès commerciaux Once Upon a Time… in Hollywood sorti en 2019. Ces films sont souvent très violents mais très appréciés. Il reçoit la Palme d’or à Cannes en 1994. ",
+        bio:"Quentin Tarantino est un scénariste, producteur, réalisateur américain. Il est notamment connu a travers ses films indépendants comme Reservoir Dogs et Pulp Fiction début de sa carrière puis par la suit Kill Bill Vol 1 et 2 et un de ses plus gros succès commerciaux Once Upon a Time… in Hollywood sorti en 2019. Ses films sont souvent très violents mais très appréciés. Il reçoit la Palme d’or à Cannes en 1994. ",
         type:"c",
         work:"https://www.allocine.fr/film/fichefilm_gen_cfilm=10126.html"
     },{
@@ -289,13 +289,13 @@ const Celebrities = [
     },{
         img:'https://hips.hearstapps.com/hmg-prod/images/lead-esq050119russobrothers-001-1555616246.jpg?crop=1xw:1xh;center,top&resize=980:*',
         name:"Anthony et Joe Russo: (1970 & 1971)-présent",
-        bio:"Ces deux frères réalisateurs et scénaristes américains. Ils sont à l'origine de plusieurs films à succès de l'univers Marvel: Captain America : Le Soldat de l'hiver 2014 et Captain America: Civil War 2016, les deux suites du film Captain America: First Avenger, sorti en 2011 et d’autres part  Avengers: Infinity War et Avengers: Endgame. Ces deux derniers films arrivent respectivement 4ème et 2ème au Box-office mondial.",
+        bio:"Ces deux frères réalisateurs et scénaristes américains. Ils sont à l'origine de plusieurs films à succès de l'univers Marvel: Captain America : Le Soldat de l'hiver 2014 et Captain America: Civil War 2016, les deux suites du film Captain America: First Avenger, sorti en 2011 et d’autre part  Avengers: Infinity War et Avengers: Endgame. Ces deux derniers films arrivent respectivement 4ème et 2ème au Box-office mondial.",
         type:"c",
         work:"https://www.allocine.fr/film/fichefilm_gen_cfilm=218265.html"
     },{
         img:'https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Steven_Spielberg_Masterclass_Cin%C3%A9math%C3%A8que_Fran%C3%A7aise_2_cropped.jpg/260px-Steven_Spielberg_Masterclass_Cin%C3%A9math%C3%A8que_Fran%C3%A7aise_2_cropped.jpg',
         name:"Steven Spielberg: 1946-présent",
-        bio:"Steven Spielberg est un réalisateur de films et séries de science fiction d’autre part il est aussi le président du Jury du festivale de Cannes, ces films les plus connues sont Jurassic Park en 1993, Indiana Jones qui partage avec son ami George Lucas mais aussi E.T  L’extra-terrestre et puis West Side Story. Il possède bien évidemment son étoile au Hollywood Walk of Fame a L.A Seulement avec ces 4 films ces recettes mondiales s’élève à environ 3.5 milliards de dollars. ",
+        bio:"Steven Spielberg est un réalisateur de films et séries de science fiction d’autre part il est aussi le président du Jury du festivale de Cannes, ses films les plus connus sont Jurassic Park en 1993, Indiana Jones qui partage avec son ami George Lucas mais aussi E.T  L’extra-terrestre et puis West Side Story. Il possède bien évidemment son étoile au Hollywood Walk of Fame a L.A Seulement avec ces 4 films ses recettes mondiales s’élèvent à environ 3.5 milliards de dollars. ",
         type:"c",
         work:"https://www.allocine.fr/film/fichefilm_gen_cfilm=227548.html"
     },
@@ -310,7 +310,7 @@ const Celebrities = [
     },{
         img:'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Notch_receives_the_Pioneer_Award_at_GDC_2016_%28cropped%29.jpg/260px-Notch_receives_the_Pioneer_Award_at_GDC_2016_%28cropped%29.jpg',
         name:"Markus Persson: 1979-présent",
-        bio:"Markus Alexej Persson alias Notch est un programmeur de jeux vidéo, designer suédois, Markus commence l’apprentissage de la programmation vers l’âge de 7 ans et participe régulièrement à des concours. Plus tard en 2009 il a créé l’un des jeux les plus vendus du monde Minecraft ce qui lui permettra plus tard de créer sa propre entreprise Mojang en 2011, rachetée par Microsoft en 2014 pour 2.5 miliards de $. Le jeu a dépassé les 200 millions de ventes en mai 2020 et compte une communauté de 126 millions de joueurs actifs. ",
+        bio:"Markus Alexej Persson alias Notch est un programmeur de jeux vidéo, designer suédois, Markus commence l’apprentissage de la programmation vers l’âge de 7 ans et participe régulièrement à des concours. Plus tard en 2009 il a créé l’un des jeux les plus vendus du monde Minecraft ce qui lui permettra plus tard de créer sa propre entreprise Mojang en 2011, rachetée par Microsoft en 2014 pour 2.5 milliards de $. Le jeu a dépassé les 200 millions de ventes en mai 2020 et compte une communauté de 126 millions de joueurs actifs. ",
         type:"r",
         work:"https://fr.wikipedia.org/wiki/Minecraft"
     },{
