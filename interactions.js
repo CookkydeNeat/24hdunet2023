@@ -145,7 +145,7 @@ const Celebrities = [
         type:"s",
         work:"https://fr.wikipedia.org/wiki/David_(Michel-Ange)"
     },{
-        img:'https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Jean_Nouvel_2009_Vienna_frontal.jpg/280px-Jean_Nouvel_2009_Vienna_frontal.jpg',
+        img:'https://upload.wikimedia.org/wikipedia/commons/c/ce/Gustave_Eiffel.jpg',
         name:"Gustave Eiffel: 1832-1923",
         bio:"Gustave Eiffel était un ingénieur et aussi un architecte. Il commence sa carrière en travaillant avec un entrepreneur parisien spécialisé dans la construction métallique, ce qui lui permettra plus tard à l'Exposition universelle de 1889 de construire la tour Eiffel qui est haute de 1000 pieds (320 mètres)initialement elle aurait dû être démontée mais elle reste car elle est grandement appréciée. Il sera aussi l’ingénieur qui aura permis de mettre sur pied la statue de la Liberté. Il fût aussi le Président de la Société des ingénieurs civils de France durant l’année 1889. ",
         type:"s",
@@ -316,13 +316,13 @@ const Celebrities = [
     },{
         img:'https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Shigeru_Miyamoto_20150610_%28cropped_2%29.jpg/220px-Shigeru_Miyamoto_20150610_%28cropped_2%29.jpg',
         name:"Shigeru Miyamoto: 1952-présent",
-        bio:"Shigeru Miyamoto est un créateur et producteur de jeux vidéo japonais, il entre chez nintendo en 1977 en participera à la création de nombreux jeux d'arcade comme:The legend of Zelda, Donkey Kong et le largement connu Mario, ces jeux vidéo sont considérés comme les plus joués de l’époque et même de nos jours ce sont des jeux mondialement connus Les jeux Super Mario on été vendu à plus de 500 millions d'exemplaires au début de l’année 2023 et The legend of Zelda avec 100 million de jeux vendus. ",
+        bio:"Shigeru Miyamoto est un créateur et producteur de jeux vidéo japonais, il entre chez Nintendo en 1977 en participera à la création de nombreux jeux d'arcades comme:The legend of Zelda, Donkey Kong et le largement connu Mario, ces jeux vidéo sont considérés comme les plus joués de l’époque et même de nos jours ce sont des jeux mondialement connus Les jeux Super Mario on été vendu à plus de 500 millions d'exemplaires au début de l’année 2023 et The legend of Zelda avec 100 millions de jeux vendus. ",
         type:"r",
         work:"https://fr.wikipedia.org/wiki/Super_Mario"
     },{
         img:'https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Alexey_Pajitnov_-_2575833305_%28crop%29.jpg/220px-Alexey_Pajitnov_-_2575833305_%28crop%29.jpg',
         name:"Alekseï Pajitnov: 1995-présent",
-        bio:"Alekseï Pajitnov est un développeur de jeu vidéo né en avril 1955 à moscou, il sort de l’académie des sciences de l’URSS en 1979, plus tard il cherche à reproduire un de ces jeux favoris le pentomino c’est de là qu’est créé le jeux le plus vendu du monde Tetris. Aujourd’hui tout le monde connaît ce jeu de logique facile à prendre en main. Tetris depuis très longtemps le jeu le vendu du monde avec 565 millions d’exemplaires vendus. ",
+        bio:"Alekseï Pajitnov est un développeur de jeu vidéo né en avril 1955 à Moscou, il sort de l’académie des sciences de l’URSS en 1979, plus tard il cherche à reproduire un de ces jeux favoris le pentomino c’est de là qu’est créé le jeu le plus vendu du monde Tetris. Aujourd’hui tout le monde connaît ce jeu de logique facile à prendre en main. Tetris depuis très longtemps le jeu le vendu du monde avec 565 millions d’exemplaires vendus. ",
         type:"r",
         work:"https://fr.wikipedia.org/wiki/Tetris"
     },{
