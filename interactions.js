@@ -475,13 +475,16 @@ const caroussel = new Caroussel().startLoop()
  */
 const toggleMenu = ()=>{
     document.querySelector(".menu").classList.toggle("open")
+    
 }
 /**
  * Toggle the cards (open/close)
  */
 const toggleCard = ()=>{
     document.querySelector(".card-data").classList.toggle("open")
+    
 }
+
 function shuffle(array) {
     let currentIndex = array.length,  randomIndex;
   
